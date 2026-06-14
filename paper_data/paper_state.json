@@ -1,0 +1,21 @@
+{
+  "cash": 10000.0,
+  "positions": {},
+  "start_date": "2026-06-12",
+  "start_nifty": 22599.80078125,
+  "last_run": "2026-06-12",
+  "n_closed": 0,
+  "wins": 0,
+  "equity_history": [
+    [
+      "2026-06-12",
+      10000.0,
+      10000.0
+    ]
+  ],
+  "last_actions": [],
+  "last_regime": false,
+  "last_idx": 22599.8,
+  "last_idx_ma": 23040.13,
+  "last_asof": "2026-06-12"
+}
