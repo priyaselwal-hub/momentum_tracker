@@ -6,12 +6,12 @@
       "entry": 2951.9,
       "entry_date": "2026-06-17",
       "stop": 2706.13,
-      "last_price": 2951.9
+      "last_price": 3013.4
     }
   },
   "start_date": "2026-06-12",
   "start_nifty": 22599.80078125,
-  "last_run": "2026-06-17",
+  "last_run": "2026-06-18",
   "n_closed": 0,
   "wins": 0,
   "equity_history": [
@@ -29,13 +29,16 @@
       "2026-06-17",
       9992.62,
       10225.62
+    ],
+    [
+      "2026-06-18",
+      10054.12,
+      10268.43
     ]
   ],
-  "last_actions": [
-    "BUY  ADANIENT @ 2951.9   (set GTT stop 2706.1)"
-  ],
+  "last_actions": [],
   "last_regime": true,
-  "last_idx": 23109.7,
-  "last_idx_ma": 23039.42,
-  "last_asof": "2026-06-17"
+  "last_idx": 23206.45,
+  "last_idx_ma": 23039.76,
+  "last_asof": "2026-06-18"
 }
