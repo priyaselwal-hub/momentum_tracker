@@ -6,19 +6,19 @@
       "entry": 2951.9,
       "entry_date": "2026-06-17",
       "stop": 2706.13,
-      "last_price": 3107.2
+      "last_price": 3083.6
     },
     "ADANIPORTS": {
       "shares": 2,
       "entry": 1848.2,
       "entry_date": "2026-07-01",
       "stop": 1726.11,
-      "last_price": 1833.9
+      "last_price": 1800.1
     }
   },
   "start_date": "2026-06-12",
   "start_nifty": 22599.80078125,
-  "last_run": "2026-07-07",
+  "last_run": "2026-07-09",
   "n_closed": 0,
   "wins": 0,
   "equity_history": [
@@ -101,11 +101,16 @@
       "2026-07-07",
       10110.08,
       10340.29
+    ],
+    [
+      "2026-07-09",
+      10018.88,
+      10212.99
     ]
   ],
   "last_actions": [],
   "last_regime": true,
-  "last_idx": 23368.85,
-  "last_idx_ma": 23062.45,
-  "last_asof": "2026-07-07"
+  "last_idx": 23081.15,
+  "last_idx_ma": 23061.51,
+  "last_asof": "2026-07-09"
 }
