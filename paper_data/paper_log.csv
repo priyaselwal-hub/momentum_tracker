@@ -1,3 +1,5 @@
 date,action,symbol,price,shares,stop,reason,ret_pct,entry_date,entry_price
 2026-06-17,BUY,ADANIENT,2951.9,1,2706.13,entry,,2026-06-17,2951.9
 2026-07-01,BUY,ADANIPORTS,1848.2,2,1726.11,entry,,2026-07-01,1848.2
+2026-07-29,SELL,ADANIPORTS,1726.11,2,,atr_stop,-6.61,2026-07-01,1848.2
+2026-07-29,BUY,COFORGE,1714.9,2,1539.68,entry,,2026-07-29,1714.9
