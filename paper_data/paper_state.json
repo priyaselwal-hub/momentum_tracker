@@ -6,19 +6,19 @@
       "entry": 2951.9,
       "entry_date": "2026-06-17",
       "stop": 2706.13,
-      "last_price": 3024.5
+      "last_price": 3049.1
     },
     "COFORGE": {
       "shares": 2,
       "entry": 1714.9,
       "entry_date": "2026-07-29",
       "stop": 1539.68,
-      "last_price": 1714.9
+      "last_price": 1742.9
     }
   },
   "start_date": "2026-06-12",
   "start_nifty": 22599.80078125,
-  "last_run": "2026-07-29",
+  "last_run": "2026-07-30",
   "n_closed": 1,
   "wins": 0,
   "equity_history": [
@@ -171,14 +171,16 @@
       "2026-07-29",
       9794.59,
       10333.1
+    ],
+    [
+      "2026-07-30",
+      9875.19,
+      10333.52
     ]
   ],
-  "last_actions": [
-    "SELL ADANIPORTS @ 1726.1   (atr_stop, -6.6%)",
-    "BUY  COFORGE @ 1714.9   (set GTT stop 1539.7)"
-  ],
+  "last_actions": [],
   "last_regime": true,
-  "last_idx": 23352.6,
-  "last_idx_ma": 23065.67,
-  "last_asof": "2026-07-29"
+  "last_idx": 23353.55,
+  "last_idx_ma": 23067.3,
+  "last_asof": "2026-07-30"
 }
