@@ -6,19 +6,19 @@
       "entry": 2951.9,
       "entry_date": "2026-06-17",
       "stop": 2706.13,
-      "last_price": 3169.0
+      "last_price": 3168.5
     },
     "COFORGE": {
       "shares": 2,
       "entry": 1714.9,
       "entry_date": "2026-07-29",
       "stop": 1539.68,
-      "last_price": 1901.8
+      "last_price": 2014.6
     }
   },
   "start_date": "2026-06-12",
   "start_nifty": 22599.80078125,
-  "last_run": "2026-08-27",
+  "last_run": "2026-08-28",
   "n_closed": 1,
   "wins": 0,
   "equity_history": [
@@ -271,11 +271,16 @@
       "2026-08-27",
       10312.89,
       10390.36
+    ],
+    [
+      "2026-08-28",
+      10537.99,
+      10410.95
     ]
   ],
   "last_actions": [],
   "last_regime": true,
-  "last_idx": 23482.0,
-  "last_idx_ma": 23072.99,
-  "last_asof": "2026-08-27"
+  "last_idx": 23528.55,
+  "last_idx_ma": 23072.26,
+  "last_asof": "2026-08-28"
 }
