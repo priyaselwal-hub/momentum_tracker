@@ -1,25 +1,25 @@
 {
-  "cash": 3340.2943468505864,
+  "cash": 2183.6872924072277,
   "positions": {
-    "ADANIENT": {
-      "shares": 1,
-      "entry": 2951.9,
-      "entry_date": "2026-06-17",
-      "stop": 2706.13,
-      "last_price": 2863.9
-    },
     "COFORGE": {
       "shares": 2,
       "entry": 1714.9,
       "entry_date": "2026-07-29",
       "stop": 1539.68,
-      "last_price": 1988.9
+      "last_price": 1965.7
+    },
+    "NAUKRI": {
+      "shares": 3,
+      "entry": 1343.7,
+      "entry_date": "2026-09-02",
+      "stop": 1227.03,
+      "last_price": 1343.7
     }
   },
   "start_date": "2026-06-12",
   "start_nifty": 22599.80078125,
-  "last_run": "2026-09-01",
-  "n_closed": 1,
+  "last_run": "2026-09-02",
+  "n_closed": 2,
   "wins": 0,
   "equity_history": [
     [
@@ -286,11 +286,19 @@
       "2026-09-01",
       10181.99,
       10327.48
+    ],
+    [
+      "2026-09-02",
+      10146.19,
+      10275.67
     ]
   ],
-  "last_actions": [],
+  "last_actions": [
+    "SELL ADANIENT @ 2891.8   (rank_exit, -2.0%)",
+    "BUY  NAUKRI @ 1343.7   (set GTT stop 1227.0)"
+  ],
   "last_regime": true,
-  "last_idx": 23339.9,
-  "last_idx_ma": 23071.04,
-  "last_asof": "2026-09-01"
+  "last_idx": 23222.8,
+  "last_idx_ma": 23069.51,
+  "last_asof": "2026-09-02"
 }
