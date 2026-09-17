@@ -6,19 +6,19 @@
       "entry": 1714.9,
       "entry_date": "2026-07-29",
       "stop": 1539.68,
-      "last_price": 1775.5
+      "last_price": 1766.7
     },
     "NAUKRI": {
       "shares": 3,
       "entry": 1343.7,
       "entry_date": "2026-09-02",
       "stop": 1227.03,
-      "last_price": 1261.5
+      "last_price": 1256.0
     }
   },
   "start_date": "2026-06-12",
   "start_nifty": 22599.80078125,
-  "last_run": "2026-09-15",
+  "last_run": "2026-09-16",
   "n_closed": 2,
   "wins": 0,
   "equity_history": [
@@ -331,11 +331,16 @@
       "2026-09-15",
       9519.19,
       9945.86
+    ],
+    [
+      "2026-09-16",
+      9485.09,
+      9970.0
     ]
   ],
   "last_actions": [],
   "last_regime": false,
-  "last_idx": 22477.45,
-  "last_idx_ma": 23035.13,
-  "last_asof": "2026-09-15"
+  "last_idx": 22532.0,
+  "last_idx_ma": 23028.84,
+  "last_asof": "2026-09-16"
 }
