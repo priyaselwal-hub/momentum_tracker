@@ -1,25 +1,18 @@
 {
-  "cash": 2183.6872924072277,
+  "cash": 5855.574567407228,
   "positions": {
     "COFORGE": {
       "shares": 2,
       "entry": 1714.9,
       "entry_date": "2026-07-29",
       "stop": 1539.68,
-      "last_price": 1782.4
-    },
-    "NAUKRI": {
-      "shares": 3,
-      "entry": 1343.7,
-      "entry_date": "2026-09-02",
-      "stop": 1227.03,
-      "last_price": 1297.0
+      "last_price": 1785.9
     }
   },
   "start_date": "2026-06-12",
   "start_nifty": 22599.80078125,
-  "last_run": "2026-09-23",
-  "n_closed": 2,
+  "last_run": "2026-09-24",
+  "n_closed": 3,
   "wins": 0,
   "equity_history": [
     [
@@ -356,11 +349,18 @@
       "2026-09-23",
       9639.49,
       10148.36
+    ],
+    [
+      "2026-09-24",
+      9427.37,
+      9979.11
     ]
   ],
-  "last_actions": [],
+  "last_actions": [
+    "SELL NAUKRI @ 1227.0   (atr_stop, -8.7%)"
+  ],
   "last_regime": false,
-  "last_idx": 22935.1,
-  "last_idx_ma": 23009.13,
-  "last_asof": "2026-09-23"
+  "last_idx": 22552.6,
+  "last_idx_ma": 22996.58,
+  "last_asof": "2026-09-24"
 }

@@ -5,3 +5,4 @@ date,action,symbol,price,shares,stop,reason,ret_pct,entry_date,entry_price
 2026-07-29,BUY,COFORGE,1714.9,2,1539.68,entry,,2026-07-29,1714.9
 2026-09-02,SELL,ADANIENT,2891.8,1,,rank_exit,-2.04,2026-06-17,2951.9
 2026-09-02,BUY,NAUKRI,1343.7,3,1227.03,entry,,2026-09-02,1343.7
+2026-09-24,SELL,NAUKRI,1227.03,3,,atr_stop,-8.68,2026-09-02,1343.7
