@@ -6,12 +6,12 @@
       "entry": 1714.9,
       "entry_date": "2026-07-29",
       "stop": 1539.68,
-      "last_price": 1925.0
+      "last_price": 1951.0
     }
   },
   "start_date": "2026-06-12",
   "start_nifty": 22599.80078125,
-  "last_run": "2026-10-19",
+  "last_run": "2026-10-21",
   "n_closed": 3,
   "wins": 0,
   "equity_history": [
@@ -434,11 +434,16 @@
       "2026-10-19",
       9705.57,
       9753.01
+    ],
+    [
+      "2026-10-21",
+      9757.57,
+      9662.87
     ]
   ],
   "last_actions": [],
   "last_regime": false,
-  "last_idx": 22041.6,
-  "last_idx_ma": 22868.89,
-  "last_asof": "2026-10-19"
+  "last_idx": 21837.9,
+  "last_idx_ma": 22858.83,
+  "last_asof": "2026-10-21"
 }
