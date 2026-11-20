@@ -6,19 +6,19 @@
       "entry": 1714.9,
       "entry_date": "2026-07-29",
       "stop": 1539.68,
-      "last_price": 2049.0
+      "last_price": 2041.0
     },
     "KOTAKBANK": {
       "shares": 9,
       "entry": 494.2,
       "entry_date": "2026-11-16",
       "stop": 462.65,
-      "last_price": 494.85
+      "last_price": 503.0
     }
   },
   "start_date": "2026-06-12",
   "start_nifty": 22599.80078125,
-  "last_run": "2026-11-18",
+  "last_run": "2026-11-19",
   "n_closed": 3,
   "wins": 0,
   "equity_history": [
@@ -541,11 +541,16 @@
       "2026-11-18",
       9948.3,
       10455.96
+    ],
+    [
+      "2026-11-19",
+      10005.65,
+      10574.05
     ]
   ],
   "last_actions": [],
   "last_regime": true,
-  "last_idx": 23630.25,
-  "last_idx_ma": 22785.02,
-  "last_asof": "2026-11-18"
+  "last_idx": 23897.15,
+  "last_idx_ma": 22790.41,
+  "last_asof": "2026-11-19"
 }
